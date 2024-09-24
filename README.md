@@ -34,7 +34,7 @@ Hello, I am very happy that you are reading my GitHub page. It is an honor for m
 
 ---
 
-## I am with you  &#127801
+## I am with you  &#127801;
 
 I am with you in your projects and I have always been proud to have managed the best projects, so let's join hands and progress together.
 
