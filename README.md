@@ -23,6 +23,7 @@ Hello, I am very happy that you are reading my GitHub page. It is an honor for m
 </div>
 
 
+---
 <div align="center">
   <img src="https://www.urminoweb.ir/wp-content/uploads/2024/09/dilelectronic.ir_.jpg" />
 </div>
