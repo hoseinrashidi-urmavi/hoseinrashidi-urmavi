@@ -2,13 +2,14 @@
 
 Hello, I am very happy that you are reading my GitHub page. It is an honor for me. I have been very interested in the electronic and digital world since I was 13 years old, and based on this interest, I started my activity in the field of programming, first with the WordPress content management system for Website design and then I got acquainted with HTML and CSS for website design and then I got acquainted with PHP language and Laravel framework and in this way I got acquainted with Vue, React library and other frameworks such as Django and Express JS.
 
+
+---
+
 ### 
 
-<style>
-#foo {background-color: red}
-</style>
 
-<div id="foo">
+
+<div >
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
