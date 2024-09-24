@@ -4,8 +4,11 @@ Hello, I am very happy that you are reading my GitHub page. It is an honor for m
 
 ### 
 
+<style>
+#foo {background-color: red}
+</style>
 
-<div style="    margin-bottom: 20px;">
+<div id="foo">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
