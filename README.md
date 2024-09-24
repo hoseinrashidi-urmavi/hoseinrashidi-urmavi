@@ -23,6 +23,7 @@ Hello, I am very happy that you are reading my GitHub page. It is an honor for m
   <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 
 
 
