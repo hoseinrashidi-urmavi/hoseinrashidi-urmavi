@@ -43,6 +43,6 @@ I am with you in your projects and I have always been proud to have managed the 
 
 ---
 <div align="center">
-  <img src="[https://www.urminoweb.ir/wp-content/uploads/2024/09/dilelectronic.ir_.jpg](https://www.urminoweb.ir/_next/static/media/slug-logo-dark.b147aceb.svg)" />
+  <img src="https://www.urminoweb.ir/urminobaner-git.png"/>
 </div>
 
