@@ -35,11 +35,11 @@ I’ve been passionate about electronics and the digital world since I was 13. T
 ## 🌱 Let’s Build Together
 
 I’m always excited to collaborate on projects and proud to have managed some amazing ones. Let’s join hands and create great things together!  
-
+> ⚠️ Note: Most of my projects are private.
 <div align="center">
   <img src="https://www.urminoweb.ir/urminobaner-git.png"/>
 </div>
 
-> ⚠️ Note: Most of my projects are private.
+
 
 ---
