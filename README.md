@@ -37,7 +37,7 @@ I’ve been passionate about electronics and the digital world since I was 13. T
 I’m always excited to collaborate on projects and proud to have managed some amazing ones. Let’s join hands and create great things together!  
 > ⚠️ Note: Most of my projects are private.
 <div align="center">
-  <a href="www.urminoweb.ir"><img src="https://www.urminoweb.ir/urminobaner-git.png"/></a>
+  <a href="www.urminoweb.ir"><img src="https://www.urminoweb.ir/urminobaner-git.png](https://www.urminoweb.ir/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fabout-sec.406bdbfa.png&w=1920&q=75"/></a>
   
 </div>
 
